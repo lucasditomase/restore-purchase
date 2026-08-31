@@ -12,3 +12,5 @@
 - Open the App Store and tap on your profile picture. Then, go to Apps and Purchase History.
 - You can filter apps by date using the menu at the top.
 - Purchase receipts don’t disappear. Even if you made a purchase years ago, it will still be there.
+
+### [Open the App Store](https://apps.apple.com/today)
