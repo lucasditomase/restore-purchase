@@ -10,7 +10,8 @@
 
 ## How to get the purchase receipt
 
-- Open the App Store and tap on your profile picture. Then, go to Apps and Purchase History.
+- On iPhone and iPad, open the App Store and tap on your profile picture. Then, go to Apps and Purchase History.
+- On Mac, open the App Store, click on your profile picture and then on Account Settings. Finally, go to Apps and Purchase History.
 - You can filter apps by date using the menu at the top.
 - Purchase receipts don’t disappear. Even if you made a purchase years ago, it will still be there.
 
