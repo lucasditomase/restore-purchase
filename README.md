@@ -3,7 +3,7 @@
 - If you bought the app when it was a one-time purchase, you get to keep the original features free of charge. No subscription is required.
 - Purchases are restored automatically. If this isn't working for you, report it to me so I can fix it.
 - The button to restore purchases in the subscription menu only works for subscriptions. It will have no effect on one-time purchases.
-- The restore button in the one-time purchase menu only works for in-app purchases; it does work for paid upfront purchases.
+- The restore button in the one-time purchase menu only works for in-app purchases; it does not work for paid upfront purchases.
 
 ## Reporting a problem
 
