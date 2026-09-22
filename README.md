@@ -8,6 +8,7 @@
 ## Reporting a problem
 
 - If the app doesn’t recognize your purchase, contact me from the customer support page and attach a screenshot of the purchase receipt.
+- For more information, check the [list of apps](https://github.com/lucasditomase/purchases-restored) that support purchase restoration.
 
 ## How to get the purchase receipt
 
