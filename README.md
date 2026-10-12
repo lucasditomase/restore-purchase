@@ -1,13 +1,13 @@
 # Restore Purchase
 
-- If you bought the app when it was a paid download, you get to keep the original features free of charge. No subscription is required.
+- If you bought the app when it was a **paid download**, you get to keep the original features free of charge. No subscription is required.
 - Purchases are restored automatically. If this isn't working for you, report it to me so I can fix it.
-- The button to restore purchases in the subscription menu only works for subscriptions. It will have no effect on paid downloads.
-- The button to restore purchases in the one-time purchase menu only works for in-app purchases; it does not work for paid downloads.
+- The button to restore purchases in the *subscription menu* only works for subscriptions. **It will have no effect on paid downloads**.
+- The button to restore purchases in the *one-time purchase menu* only works for in-app purchases; **it does not work for paid downloads**.
 
 ## Reporting a problem
 
-- If the app doesn’t recognize your purchase, contact me from the customer support page and attach a screenshot of the purchase receipt.
+- If the app doesn’t recognize your purchase, contact me from the customer support page and attach a **screenshot of the purchase receipt**.
 - For more information, check the [list of apps](https://github.com/lucasditomase/purchases-restored) that support purchase restoration.
 
 ## How to get the purchase receipt
